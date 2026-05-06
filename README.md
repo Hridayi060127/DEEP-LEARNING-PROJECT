@@ -26,9 +26,11 @@ The project was implemented using Python as the programming language. Several im
 
 #OUTPUT
 
-
+*CONFUSION MATRIX*
 <img width="1912" height="1016" alt="Image" src="https://github.com/user-attachments/assets/8616ee13-395c-4b72-8d04-ce0228ad2110" />
 
+*TEST ACCURACY*
 <img width="1910" height="1018" alt="Image" src="https://github.com/user-attachments/assets/752c3e4a-3ea6-4e0c-88b0-75fd906984b0" />
 
+*LOSS GRAPH*
 <img width="1917" height="1022" alt="Image" src="https://github.com/user-attachments/assets/47fe8a45-0271-424e-9ce3-210260a858e5" />
